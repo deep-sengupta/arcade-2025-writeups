@@ -40,7 +40,6 @@
   for ((i=1;i<=50;i++)); do curl $MY_SERVER; done
   ```
 
-## Task 5: Analyze VPC Flow Logs in BigQuery
 - Dataset: `bq_vpc_flows`
 - Query:
   ```sql
