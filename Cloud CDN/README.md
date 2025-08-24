@@ -1,5 +1,7 @@
 # Cloud CDN (GSP217)
 
+https://github.com/user-attachments/assets/87f6bc49-a592-42f5-b103-20442cfd6bc9
+
 ---
 
 ## Task 1: Create and Populate a Cloud Storage Bucket
