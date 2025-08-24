@@ -1,5 +1,7 @@
 # Network Tiers – Optimizing Network Spend (GSP219)
 
+https://github.com/user-attachments/assets/c4aa863e-81cd-4db1-a54d-9a5d974cd870
+
 ---
 
 ## Task 1: Create the VM Instances
