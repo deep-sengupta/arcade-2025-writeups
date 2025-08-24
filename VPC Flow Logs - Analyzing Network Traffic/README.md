@@ -1,5 +1,7 @@
 # VPC Flow Logs - Analyzing Network Traffic (GSP212)
 
+https://github.com/user-attachments/assets/4602e884-cb11-4948-adc3-970266f1f926
+
 ---
 
 ## Task 1: Configure a Custom Network with VPC Flow Logs
